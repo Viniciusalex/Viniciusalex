@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Programção  
 - 🌱 I’m currently learning  Python 
 - 💞️ I’m looking to collaborate on  projetos
-- 📫 How to reach me  viniciusalex3291@gmail.com
+- 📫 How to reach me  viniciusalexfernandes@gmail.com
 
 <!---
 Viniciusalex/Viniciusalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
