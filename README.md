@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viniciusalex
 - 👀 I’m interested in  Programção  
-- 🌱 I’m currently learning  Python 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on  projetos
 - 📫 How to reach me  viniciusalexfernandes@gmail.com
 
